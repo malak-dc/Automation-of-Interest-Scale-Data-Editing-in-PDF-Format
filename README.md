@@ -24,22 +24,16 @@ Ce projet vise à automatiser l'édition des échelles d'intérêts en format PD
 
 ## 🛠️ Installation
 
-1. **Cloner le dépôt** :
-   ```bash
-   git clone https://github.com/votre-utilisateur/votre-projet.git
-   cd votre-projet
-   ```
-
-2. **Configurer la base de données MySQL** :
+1. **Configurer la base de données MySQL** :
    - Créez la base de données MySQL et importez les tables nécessaires.
    - Mettez à jour le fichier `application.properties` avec vos informations MySQL.
 
-3. **Exécuter le backend** :
+2. **Exécuter le backend** :
    ```bash
    mvn spring-boot:run
    ```
 
-4. **Lancer les scripts Python** :
+3. **Lancer les scripts Python** :
    - Installez les dépendances nécessaires :
      ```bash
      pip install openpyxl pywin32
