@@ -60,6 +60,8 @@ Ce projet vise à automatiser l'édition des échelles d'intérêts en format PD
 
 - **Fichier Excel** : Les données sont extraites et formatées dans un fichier Excel.
 - **Rapport PDF** : Conversion du fichier Excel en PDF pour une distribution simple et professionnelle.
+  ![image](https://github.com/user-attachments/assets/2555d173-4b9a-4ef0-9842-d4664629dd81)
+
 
 ## ✅ Conclusion
 
